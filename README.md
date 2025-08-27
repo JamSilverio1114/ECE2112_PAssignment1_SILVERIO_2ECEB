@@ -123,7 +123,7 @@ print (emotify("I am mad"))
 * From the example and my own sentences, I used each corresponding emoticons to replace their corresponding words in the sentence.
   
 **Conclusion:**  
-The program **successfully** displayed the replacements for each ```smile```, ```grin```, ```sad```, and ```mad```.
+The program **successfully** displayed the replacements for the words ```smile```, ```grin```, ```sad```, and ```mad```.
 
 ---
 
